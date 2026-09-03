@@ -1,0 +1,10 @@
+,Customer_ID,Name,Age,City,Transaction_ID,Amount,Date
+0,101,Rahul Roy,28.0,Kolkata,,,
+1,102,Priya Sen,34.0,Mumbai,,,
+2,103,Amit Das,22.0,Delhi,,,
+3,104,Sneha Pal,45.0,Bangalore,,,
+4,101,,,,TXN1001,1500.0,2026-08-01
+5,102,,,,TXN1002,2300.0,2026-08-02
+6,101,,,,TXN1003,450.0,2026-08-05
+7,103,,,,TXN1004,8900.0,2026-08-10
+8,102,,,,TXN1005,1200.0,2026-08-12
